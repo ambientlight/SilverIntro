@@ -1,0 +1,2 @@
+/Users/hurden/Developer/repositories/SilverIntro/info.ambientlight.SilverIntro/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.pas
+/Users/hurden/Developer/repositories/SilverIntro/info.ambientlight.SilverIntro/obj/Debug/Android/info.ambientlight.SilverIntro.jar
