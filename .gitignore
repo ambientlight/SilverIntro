@@ -78,11 +78,8 @@ Packages/
 *.fire.user
 *.elements.user
 
-# Include build output as a source for external gradle dependency
-# Silver/GeoBingAnKit/bin/
-Silver/GeoBingAnKit/obj/
-Silver/GeoBingAnKit.Tests/bin/
-Silver/GeoBingAnKit.Tests/obj/
+info.ambientlight.SilverIntro/bin/
+info.ambientlight.SilverIntro/obj/
 
 # realm-swift
 realm-swift/

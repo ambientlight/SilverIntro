@@ -90,7 +90,6 @@
             <Private>True</Private>
         </Reference>
         <Reference Include="swift">
-            <HintPath>../../swift.jar</HintPath>
             <Private>True</Private>
         </Reference>
     </ItemGroup>
